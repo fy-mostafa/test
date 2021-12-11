@@ -1,1 +1,1 @@
-var test =' ok'
+var test ='hok'
